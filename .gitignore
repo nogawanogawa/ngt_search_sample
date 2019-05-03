@@ -8,3 +8,5 @@ w2vIndex/
 online/__pycache__/__init__.cpython-36.pyc
 batch/entity_vector/
 batch/.bash_history
+online/vector.tsv
+online/search.py
